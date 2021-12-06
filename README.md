@@ -1,2 +1,2 @@
-# Gomoku_game
-game
+五子棋
+小游戏
