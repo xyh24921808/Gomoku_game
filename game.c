@@ -77,11 +77,11 @@ void Showboard(int board[][COL],int row,int col)
 			}
 			else if(board[i][j]==Player1)
 			{
-				printf(" X ");
+				printf(" ● ");
 			}
 			else
 			{
-				printf(" O ");
+				printf(" ○ ");
 			}
 		}
 		printf("\n");
